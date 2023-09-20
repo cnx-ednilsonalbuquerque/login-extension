@@ -16,10 +16,4 @@
 
 ## Usage
 
-- Add your login data in extension
-
-![create](https://github.com/cnx-ednilsonalbuquerque/login-extension/assets/100440132/59fbf84b-cb98-4912-a370-d73a74f515c6)
-
-- Use your login in input field
-
-![usage](https://github.com/cnx-ednilsonalbuquerque/login-extension/assets/100440132/2514166b-3bd7-4fff-b12f-eb805c489ee5)
+![giflib](https://github.com/cnx-ednilsonalbuquerque/login-extension/assets/100440132/f4442cd7-5a2b-42a4-b303-269528f8e1a7)
