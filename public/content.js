@@ -1,6 +1,4 @@
 const messagesFromReactAppListener = (msg, sender, sendResponse) => {
-  console.log("[content.js]. Message received", msg);
-
   let inputs = Array.from(document.querySelectorAll("input"))?.filter(
     (input) => input.id !== "tokenBirdID"
   );
