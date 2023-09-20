@@ -14,6 +14,6 @@
 
 ![install-ex](https://github.com/cnx-ednilsonalbuquerque/login-extension/assets/100440132/3ad4f4d6-8425-48c6-819c-ebfe6fdd94e7)
 
-## Usage
+## Preview
 
-![giflib](https://github.com/cnx-ednilsonalbuquerque/login-extension/assets/100440132/f4442cd7-5a2b-42a4-b303-269528f8e1a7)
+![usage-extension](https://github.com/cnx-ednilsonalbuquerque/login-extension/assets/100440132/c66238dc-9341-4351-92a2-e58eea30999a)
