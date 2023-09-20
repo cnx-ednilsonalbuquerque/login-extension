@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "teste-extension",
+  "description": "teste de description.",
+  "version": "0.0.1",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open"
+  },
+  "permissions": ["scripting", "activeTab", "storage", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "host_permissions": ["http://*/", "https://*/"]
+}
